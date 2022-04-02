@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">FullStack Developer</h3>
 
-Hola 🖐️! soy Técnico en Análisis de Sistemas, capacitándome como FullStack Developer en el bootcamp de Henry con herramientas actuales y trabajando en equipo.
+Hola 🖐️! soy Analista de Sistemas y FullStack Developer.
 
 🤓 Tengo gran interés en obtener nuevos conocimientos y poder aplicarlos para la resolución de diversos problemas de forma profesional. Me considero metódico y resolutivo, buscando nuevos retos y equipos donde participar.
 
 ✅ Actualmente mi stack se basa en: 
   - Bases de datos: PostgreSQL, Microsoft SQL Server, MongoDB. 
-  - Backend: NodeJs (Express, Sequelize), .NET C#.
-  - Frontend: HTML, CSS, Bootstrap, Tailwind, Javascript, ReactJs, Redux.
-  - GIT, Github.
+  - Backend: NodeJs (Typescript, Express, Sequelize, NestJs), .NET C#.
+  - Frontend: HTML, CSS, Styled Components, Javascript, Typescript, ReactJs, Redux.
+  - GIT, Github, Gitlab.
   
 🤓 Estoy aprendiendo **React Native, .NET Stack and design patterns.**
 
